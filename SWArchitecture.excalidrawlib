@@ -1,0 +1,132 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "libraryItems": [
+    {
+      "id": "xak_G-QiqgG85pjTKQiME",
+      "status": "unpublished",
+      "elements": [
+        {
+          "id": "s-e6t_DGUmt-scnBSZLlQ",
+          "type": "line",
+          "x": 390.5947818235453,
+          "y": 254.84080735694124,
+          "width": 92.85198586158998,
+          "height": 0.000018822093750259228,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "-hQhD0_GBBLIP__16_Uoz"
+          ],
+          "frameId": null,
+          "index": "a4",
+          "roundness": {
+            "type": 2
+          },
+          "seed": 1268111757,
+          "version": 49,
+          "versionNonce": 1411919821,
+          "isDeleted": false,
+          "boundElements": [],
+          "updated": 1750219259935,
+          "link": null,
+          "locked": false,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              92.85198586158998,
+              0.000018822093750259228
+            ]
+          ],
+          "lastCommittedPoint": null,
+          "startBinding": null,
+          "endBinding": null,
+          "startArrowhead": null,
+          "endArrowhead": null
+        },
+        {
+          "id": "DYNxIylaJPNN_Fa8c7FxY",
+          "type": "ellipse",
+          "x": 481.5334642124163,
+          "y": 239.52022536069734,
+          "width": 18.12021786311493,
+          "height": 25.224786543603955,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "-hQhD0_GBBLIP__16_Uoz"
+          ],
+          "frameId": null,
+          "index": "a5",
+          "roundness": {
+            "type": 2
+          },
+          "seed": 2135980227,
+          "version": 48,
+          "versionNonce": 1418374701,
+          "isDeleted": false,
+          "boundElements": [],
+          "updated": 1750219259935,
+          "link": null,
+          "locked": false
+        },
+        {
+          "id": "UvhaVz_iztDv4DBB_mIjR",
+          "type": "text",
+          "x": 386.9932494750337,
+          "y": 212.5227928508831,
+          "width": 87.21995544433594,
+          "height": 25,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "-hQhD0_GBBLIP__16_Uoz"
+          ],
+          "frameId": null,
+          "index": "a6",
+          "roundness": null,
+          "seed": 1913436909,
+          "version": 15,
+          "versionNonce": 1699861197,
+          "isDeleted": false,
+          "boundElements": [],
+          "updated": 1750219265347,
+          "link": null,
+          "locked": false,
+          "text": "IExample",
+          "fontSize": 20,
+          "fontFamily": 5,
+          "textAlign": "left",
+          "verticalAlign": "top",
+          "containerId": null,
+          "originalText": "IExample",
+          "autoResize": true,
+          "lineHeight": 1.25
+        }
+      ],
+      "created": 1750219286266
+    }
+  ]
+}
