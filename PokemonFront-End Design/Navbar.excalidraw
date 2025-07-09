@@ -38,7 +38,7 @@
       "type": "text",
       "x": 897.2822396414622,
       "y": 231.28261675153453,
-      "width": 116.9617919921875,
+      "width": 143.21621704101562,
       "height": 46.960762435443655,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -53,8 +53,8 @@
       "index": "a1",
       "roundness": null,
       "seed": 1297077548,
-      "version": 327,
-      "versionNonce": 788705172,
+      "version": 330,
+      "versionNonce": 391649324,
       "isDeleted": false,
       "boundElements": [
         {
@@ -62,16 +62,16 @@
           "type": "arrow"
         }
       ],
-      "updated": 1752095481112,
-      "link": null,
+      "updated": 1752095562815,
+      "link": "ContentAdminView.excalidraw",
       "locked": false,
-      "text": " Admin",
+      "text": " | Admin",
       "fontSize": 37.568609948354926,
       "fontFamily": 5,
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": " Admin",
+      "originalText": " | Admin",
       "autoResize": true,
       "lineHeight": 1.25
     },
@@ -226,10 +226,10 @@
     {
       "id": "FQDJxdO0HV5L3FxgGqtbY",
       "type": "arrow",
-      "x": 990.6181309941933,
-      "y": 98.57720187382395,
-      "width": 39.458427038040554,
-      "height": 125.3005422733599,
+      "x": 973.5441294397455,
+      "y": 105.34977738914766,
+      "width": 7.64516950646248,
+      "height": 113.31416932500052,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#b2f2bb",
@@ -245,11 +245,11 @@
         "type": 2
       },
       "seed": 140839340,
-      "version": 316,
-      "versionNonce": 654172180,
+      "version": 414,
+      "versionNonce": 846787092,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1752095497158,
+      "updated": 1752095537300,
       "link": null,
       "locked": false,
       "points": [
@@ -258,20 +258,20 @@
           0
         ],
         [
-          -39.458427038040554,
-          125.3005422733599
+          -7.64516950646248,
+          113.31416932500052
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": {
         "elementId": "v6Bpg0nj5gPZ6pNG2rcf-",
-        "focus": -0.5500400029487543,
-        "gap": 6.88485227462241
+        "focus": -0.15698104600833654,
+        "gap": 2.468930624649348
       },
       "endBinding": {
         "elementId": "5Tx07ou73AMSN8esDzVGB",
-        "focus": -0.2175254866900041,
-        "gap": 7.404872604350686
+        "focus": -0.06738637895143017,
+        "gap": 12.618670037386352
       },
       "startArrowhead": null,
       "endArrowhead": "arrow",
@@ -319,8 +319,8 @@
       "type": "text",
       "x": 317.4019150506882,
       "y": 230.36159649874233,
-      "width": 575.1541275626845,
-      "height": 46.89780099051336,
+      "width": 534.329833984375,
+      "height": 46.897800990513375,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#b2f2bb",
@@ -334,20 +334,20 @@
       "index": "aA",
       "roundness": null,
       "seed": 842439700,
-      "version": 237,
-      "versionNonce": 1211276332,
+      "version": 243,
+      "versionNonce": 664355244,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1752095492883,
+      "updated": 1752103942925,
       "link": null,
       "locked": false,
-      "text": "Welcome / Library / My Decks /",
+      "text": "Welcome | Library | My Decks ",
       "fontSize": 37.5182407924107,
       "fontFamily": 5,
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "Welcome / Library / My Decks /",
+      "originalText": "Welcome | Library | My Decks ",
       "autoResize": true,
       "lineHeight": 1.25
     }
